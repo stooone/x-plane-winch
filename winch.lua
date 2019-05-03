@@ -4,4 +4,4 @@
 -- sim/world/winch/winch_max_bhp                float   y       bhp     This is the maximum horsepower the winch can deliver reeling in the cable. Cable speed will decay with higher force on the cable to not exceed this limit.
 
 DataRef("winch_cable_length", "sim/world/winch/winch_initial_length", "writable")
-winch_cable_lenght = winch_cable_lenght * 2 
+winch_cable_length = winch_cable_length * 2 
